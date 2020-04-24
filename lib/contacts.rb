@@ -25,4 +25,3 @@ if person == "Freddy Mercury"
     end
   end
 end
-end
